@@ -1,2 +1,2 @@
-# Ciel
-Voice of the world. Dominator of the world for agent users. Embodiment of the rule that governs everything.
+# Yggdrasil
+Voice of the world. The world for agent users. Core embodiment of the rule that governs everything.
